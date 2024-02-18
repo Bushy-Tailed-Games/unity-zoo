@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.niantic.lightship.maps": {
-      "version": "file:D:/Users/Jeremy/Downloads/com.niantic.lightship.maps-0.4.0.tgz",
+      "version": "file:../Assets/_ZooGame/Packages/com.niantic.lightship.maps-0.4.0.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {
